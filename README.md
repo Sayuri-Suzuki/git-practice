@@ -1,2 +1,2 @@
 # git-practice
-git練習用
+git練習用（更新２）
